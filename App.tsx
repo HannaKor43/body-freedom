@@ -5,17 +5,17 @@
 
 import { useState } from 'react';
 import { CharacterType } from './types';
-import PromoHeader from './components/PromoHeader';
+import PromoHeader from './PromoHeader';
 import HeroSection from './HeroSection';
-import ProblemsBlock from './components/ProblemsBlock';
-import CharacterTypesInfo from './components/CharacterTypesInfo';
-import CharacterQuiz from './components/CharacterQuiz';
-import ResultsSection from './components/ResultsSection';
-import AboutExpert from './components/AboutExpert';
-import PackagesBlock from './components/PackagesBlock';
-import FaqSection from './components/FaqSection';
-import Footer from './components/Footer';
-import CheckoutModal from './components/CheckoutModal';
+import ProblemsBlock from './ProblemsBlock';
+import CharacterTypesInfo from './CharacterTypesInfo';
+import CharacterQuiz from './CharacterQuiz';
+import ResultsSection from './ResultsSection';
+import AboutExpert from './AboutExpert';
+import PackagesBlock from './PackagesBlock';
+import FaqSection from './FaqSection';
+import Footer from './Footer';
+import CheckoutModal from './CheckoutModal';
 import { Compass, Gift, MessageCircle, AlertCircle } from 'lucide-react';
 
 export default function App() {
