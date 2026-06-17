@@ -6,7 +6,7 @@
 import { useState } from 'react';
 import { CharacterType } from './types';
 import PromoHeader from './components/PromoHeader';
-import HeroSection from './components/HeroSection';
+import HeroSection from './HeroSection';
 import ProblemsBlock from './components/ProblemsBlock';
 import CharacterTypesInfo from './components/CharacterTypesInfo';
 import CharacterQuiz from './components/CharacterQuiz';
